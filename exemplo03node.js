@@ -1,0 +1,6 @@
+console.log("------Dados Cadastrais------")
+console.log("Nome: Tamires Rodrigues Delmondes")
+console.log("Aula de Node Com Banco de Dados")
+console.log("Email: tamiresrdelmondes@gmail.com")
+console.log("Github:https://github.com/tamiresrodrigue")
+console.log("Linkedin:")
